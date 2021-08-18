@@ -1,7 +1,10 @@
 ### Hi, this is Qiang Sun 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisunjiang)](https://github.com/anuraghazra/github-readme-stats) 
+- 🔭 I’m currently a master student in Chongqing University
+- 😄 My research interests are machine learning applied in BCI or robotics
+- ⚡ I’m looking for a Ph.D. position in Machine learning and Robotics
+- 👯 I love photography and BBQ ~  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisunjiang)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **hisunjiang/hisunjiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
